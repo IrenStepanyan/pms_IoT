@@ -1,0 +1,3 @@
+echo "cert/" >> .gitignore
+echo "mqtt-env/" >> .gitignore
+
