@@ -1,3 +1,6 @@
-echo "cert/" >> .gitignore
-echo "mqtt-env/" >> .gitignore
+mqtt-env/
+
+cert/
+
+*.swp
 
